@@ -1,0 +1,9 @@
+.logo a{
+    font-size: 65px;
+    font-family: Bernard MT Condensed;
+    color: white;
+    padding: 5px 5px;
+    text-decoration: none;
+    text-shadow: 5px 5px 10px gray;
+
+}
